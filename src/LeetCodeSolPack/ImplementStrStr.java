@@ -22,7 +22,6 @@ public class ImplementStrStr {
 		ImplementStrStr str = new ImplementStrStr();
 		if( val == str.strStr(s1, s2))
 			System.out.println("Success");
-		
-		
+				
 	 }
 }
