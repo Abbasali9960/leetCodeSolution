@@ -9,6 +9,7 @@ public class ImplementStrStr {
           {     
               if (haystack.startsWith(needle, i))
                   return i;
+              
           }
     return -1;
 }
